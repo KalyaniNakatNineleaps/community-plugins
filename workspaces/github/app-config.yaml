@@ -1,0 +1,7 @@
+app:
+  title: "Github Plugin"
+  baseUrl: "http://localhost:3000"
+
+backend:
+  baseUrl: http://localhost:7007
+ 
